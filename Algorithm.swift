@@ -7,8 +7,6 @@
 //
 
 import Foundation
-import UIKit
-
 
 class Person {
     var age: Int = 0
